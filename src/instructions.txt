@@ -1,0 +1,12 @@
+Following operations are supported and show errors also:
+
+1. Addition         ===> 5+6, 5+ 6, 5 +6, 5 + 6
+2. Subtraction      ===> 5-6, 5- 6, 5 -6, 5 - 6
+3. Multiplication   ===> 5*6, 5* 6, 5 *6, 5 * 6
+4. Division         ===> 5/6, 5/ 6, 5 /6, 5 / 6
+5. Modulo           ===> 5%6, 5% 6, 5 %6, 5 % 6
+6. Exponent         ===> 5^6, 5^ 6, 5 ^6, 5 ^ 6
+6. Bracket          ===> (5+6)*7 = 77.0
+6. Nested Brackets  ===> (5+(5+6))*7 = 112.0
+
+Show errors also.
