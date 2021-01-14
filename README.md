@@ -6,4 +6,4 @@ This is Math Interpreter build using Python programming language. An interpreter
 - **3. Parsing:** Tokenization using the \_parser.py file.
 - **4. Interpreter:** Interpreter to evaluate the value of a mathematical expression.
 
-The more details about the project are in the [**Report of this project**](). This is the course project for course **System Programming**. System Programming is the art of designing and implementing the system programs.
+The more details about the project are in the [**Report of this project**](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/MATH%20INTERPRETER_REPORT.pdf). This is the course project for course **System Programming**. System Programming is the art of designing and implementing the system programs.
