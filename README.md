@@ -20,14 +20,23 @@ Clone this repository and go in the [**project**](https://github.com/SagarSikchi
    - **Using GUI:** Run [**gui.py**](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/project/gui.py) file
    - **Using terminal:** Run [**main.py**](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/project/main.py) file
    
+
 ## Output
 
 After running [**main.py**](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/project/main.py) file, the output will look like:
 
-[Terminal Image](/images/Screenshot%20(345).png)
+Terminal Image
+
+![Terminal Image](/images/Screenshot%20(345).png)
+
+
 
 After running [**gui.py**](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/project/gui.py) file, the output will look like:
 
-[GUI Input](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/images/Screenshot%20(348).png)
+GUI Input
 
-[GUI Output](https://github.com/SagarSikchi/Math-Interpreter-using-Python/blob/main/images/Screenshot%20(349).png)
+![GUI Input](/images/Screenshot%20(348).png)
+
+GUI Output
+
+![GUI Output](/images/Screenshot%20(349).png)
