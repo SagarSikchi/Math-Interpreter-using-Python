@@ -1,3 +1,11 @@
+"""
+ Name: Sagar Sikchi
+ Batch B2
+ Roll No. 65
+ Course Project (System Programming): Math Interpreter using Python
+ """
+
+
 # Main File
 from tokens import Token
 from lexer import Lexer
